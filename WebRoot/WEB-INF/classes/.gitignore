@@ -1,0 +1,6 @@
+/applicationContext.xml
+/com/
+/jdbc_sqlserver.properties
+/log4j.properties
+/mybatis-config.xml
+/struts.xml
