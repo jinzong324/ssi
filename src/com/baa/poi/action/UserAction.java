@@ -34,7 +34,7 @@ public class UserAction {
 		this.forward = forward;
 	}
 	
-	
+
 	public String search(){
 		users = userService.findAllUser();
 		forward = "/index.jsp";
